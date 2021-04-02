@@ -1,0 +1,69 @@
+@font-face {
+	font-family: 'MB';
+	src: url('../fonts/manrope_bold.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/manrope_bold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/manrope_bold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/manrope_bold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/manrope_bold.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/manrope_bold.svg#manrope_bold') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+    font-family: 'ML';
+    src: url('../fonts/manrope-light.eot');
+    src: local('☺'), url('../../fonts/manrope-light.woff') format('woff'), 
+    url('../fonts/manrope-light.ttf') format('truetype'), 
+    url('../fonts/manrope-light.svg') format('svg');
+}
+
+@font-face {
+    font-family: 'LB';
+    src: url('../fonts/Lora-Bold.eot');
+    src: local('☺'), url('../fonts/Lora-Bold.woff') format('woff'), 
+    url('../fonts/Lora-Bold.ttf') format('truetype'), 
+    url('../fonts/Lora-Bold.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LR';
+    src: url('../Lora-Regular.eot');
+    src: local('Lora Regular'), local('Lora-Regular'),
+        url('../Lora-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../Lora-Regular.woff') format('woff'),
+        url('../Lora-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LBI';
+    src: url('../Lora-BoldItalic.eot');
+    src: local('Lora Bold Italic'), local('Lora-BoldItalic'),
+        url('../Lora-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../Lora-BoldItalic.woff') format('woff'),
+        url('../Lora-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'LI';
+    src: url('../Lora-Italic.eot');
+    src: local('Lora Italic'), local('Lora-Italic'),
+        url('../Lora-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../Lora-Italic.woff') format('woff'),
+        url('../Lora-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'MR';
+    src: url('../fonts/manrope-regular.eot');
+    src: local('☺'), url('../../fonts/manrope-regular.woff') format('woff'), 
+    url('../fonts/manrope-regular.ttf') format('truetype'), 
+    url('../fonts/manrope-regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

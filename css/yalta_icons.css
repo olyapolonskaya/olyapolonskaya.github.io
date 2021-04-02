@@ -1,0 +1,74 @@
+@font-face {
+  font-family: 'yalta_icons';
+  src:  url('../fonts/yalta_icons.eot?7lqzbf');
+  src:  url('../fonts/yalta_icons.eot?7lqzbf#iefix') format('embedded-opentype'),
+    url('../fonts/yalta_icons.ttf?7lqzbf') format('truetype'),
+    url('../fonts/yalta_icons.woff?7lqzbf') format('woff'),
+    url('../fonts/yalta_icons.svg?7lqzbf#yalta_icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'yalta_icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-close:before {
+  content: "\e90b";
+  color: #00bbd3;
+}
+.icon-map_point:before {
+  content: "\e90a";
+  color: #00bcd4;
+}
+.icon-circle_mail:before {
+  content: "\e904";
+  color: #fff;
+}
+.icon-circle_building:before {
+  content: "\e900";
+  color: #fff;
+}
+.icon-circle_check:before {
+  content: "\e901";
+  color: #fafafa;
+}
+.icon-circle_goblet:before {
+  content: "\e902";
+  color: #fafafa;
+}
+.icon-circle_handshake:before {
+  content: "\e903";
+  color: #fafafa;
+}
+.icon-circle_map_point:before {
+  content: "\e905";
+  color: #fafafa;
+}
+.icon-circle_telefon:before {
+  content: "\e906";
+  color: #fff;
+}
+.icon-circle_telegram:before {
+  content: "\e907";
+  color: #fff;
+}
+.icon-circle_viber:before {
+  content: "\e908";
+  color: #fff;
+}
+.icon-rub:before {
+  content: "\e909";
+  color: #4dd0e1;
+}
